@@ -1,0 +1,20 @@
+{
+  "name": "api-frederick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frederickgon/api-frederick.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frederickgon/api-frederick/issues"
+  },
+  "homepage": "https://github.com/frederickgon/api-frederick#readme"
+}
